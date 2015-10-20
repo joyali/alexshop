@@ -1,0 +1,12 @@
+c:
+c:/
+cd\
+npm install -g bower
+cd alexshop
+npm init
+bower init
+bower install bootstrap  --save
+bower  install angular angular-route --save
+doskey /history >>cmd.log
+npm install express --save
+doskey /history >>cmd.log

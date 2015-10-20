@@ -1,0 +1,29 @@
+{
+  "name": "alexshop",
+  "version": "1.0.0",
+  "description": "This is a alexshop!",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyali/alexshop.git"
+  },
+  "keywords": [
+    "shop",
+    "alexlee",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "alexlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joyali/alexshop/issues"
+  },
+  "homepage": "https://github.com/joyali/alexshop#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
