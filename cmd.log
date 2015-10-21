@@ -9,4 +9,10 @@ bower install bootstrap  --save
 bower  install angular angular-route --save
 doskey /history >>cmd.log
 npm install express --save
-doskey /history >>cmd.log
+
+git init
+git add .
+git push -u origin master
+cd c:/alexshop
+git push -u origin master
+doskey /history >> cmd.log
